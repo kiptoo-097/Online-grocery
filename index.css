@@ -27,21 +27,21 @@ li>a{
     line-height: 42px;
     color: #F5EDED;
 }
-#online{
-    width: 1102px;
+#onlie{
+    position: absolute;
+    width: 510px;
     height: 135px;
     left: 324px;
     top: 110px;
     font-family: Roboto;
     font-style: normal;
     font-weight: bold;
-    font-size: 96px;
+    font-size: 56px;
     line-height: 112px;
     color: #038d26;
 }
 #gro{
     position:absolute;
-   
     left: 124px;
     top: 140px;
     font-family: Roboto;
@@ -255,4 +255,186 @@ nav>ul:hover{
     box-shadow:0 0 0 0.625em rgba(0,0,0,0.1),insert 0 0 0.625em rgba(255,255,255,0.6);
     background-color:rgba(107,93,84,0.678);
     color:rgba(0,35,122,0.7);
+}
+#recshop{
+    position: absolute;
+    width: 300px;
+    height: 40px;
+    left: 30px;
+    top: 40px;
+    background: #298521;
+}
+h1{
+    position: absolute;
+    left: 30px;
+    top: 5px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    color: #FEF9F9;
+}
+#fruithead{
+    position: absolute;
+    left: 30px;
+    top: 70px;
+}
+#orangeimg{
+    position: absolute;
+    width: 340px;
+    height: 239px;
+    left: 28px;
+    top: 100px;
+}
+#p1{
+    position: absolute;
+    width: 227px;
+    height: 35px;
+    left: 59px;
+    top: 300px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    color: #000000;
+}
+#appleimg{
+    position: absolute;
+    width: 340px;
+    height: 239px;
+    left: 400px;
+    top: 100px;
+}
+#p2{
+    position: absolute;
+    width: 227px;
+    height: 35px;
+    left: 400px;
+    top: 300px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    color: #000000;
+}
+#grapes{
+    position: absolute;
+    width: 340px;
+    height: 239px;
+    left: 800px;
+    top: 100px;
+}
+#p4{
+    position: absolute;
+    width: 227px;
+    height: 35px;
+    left: 800px;
+    top: 300px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    color: #000000;
+}
+h2{
+    position: absolute;
+    left: 30px;
+    top: 45px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    color: #FEF9F9;
+}
+#tomato{
+    position: absolute;
+    width: 340px;
+    height: 239px;
+    left: 28px;
+    top: 600px;
+}
+#onions{
+    position: absolute;
+    width: 340px;
+    height: 239px;
+    left: 400px;
+    top: 600px;
+}
+#cabbage{
+    position: absolute;
+    width: 340px;
+    height: 239px;
+    left: 800px;
+    top: 600px;
+}
+#v1{
+    position: absolute;
+    width: 227px;
+    height: 35px;
+    left: 59px;
+    top: 900px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    color: #000000;
+}
+#v2{
+    position: absolute;
+    width: 227px;
+    height: 35px;
+    left: 400px;
+    top: 900px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    color: #000000;
+}
+#v4{
+    position: absolute;
+    width: 227px;
+    height: 35px;
+    left: 800px;
+    top: 900px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    color: #000000;
+}
+#onlie{
+    position:absolute;
+    left: 74px;
+    top: 70px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 86px;
+    line-height: 112px;
+    color: rgb(3, 82, 3);
+}
+#aboutus{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    color:green;
+}
+#contact{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 56px;
+    line-height: 42px;
+    color:green;
 }
